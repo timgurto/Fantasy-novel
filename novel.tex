@@ -1,0 +1,155 @@
+\documentclass[12pt]{book}
+
+\usepackage{multicol}
+\usepackage{xcolor}
+\usepackage{allrunes}
+\usepackage{xstring}
+
+\noexpandarg\exploregroups
+\newcommand\dwarvenSpace[1]{\StrSubstitute{#1}{ }{\textarm{.}}}
+\newcommand\dwarvenFullStop[1]{\StrSubstitute{#1}{.}{\textarm{\tripleeye}}}
+\newcommand\dwarvenA[1]{\StrSubstitute{#1}{a}{\textara{\oe}}}
+\newcommand\dwarvenAA[1]{\StrSubstitute{#1}{\=a}{\textara{\oe}}}
+\newcommand\dwarvenB[1]{\StrSubstitute{#1}{b}{\textarm{b}}}
+\newcommand\dwarvenD[1]{\StrSubstitute{#1}{d}{\textarm{\o}}}
+\newcommand\dwarvenG[1]{\StrSubstitute{#1}{g}{\textarc{\RR}}}
+\newcommand\dwarvenH[1]{\StrSubstitute{#1}{h}{\textara{h}}}
+\newcommand\dwarvenI[1]{\StrSubstitute{#1}{i}{\textara{\j}}}
+\newcommand\dwarvenK[1]{\StrSubstitute{#1}{k}{\textarc{g}}}
+\newcommand\dwarvenL[1]{\StrSubstitute{#1}{l}{\textarm{y}}}
+\newcommand\dwarvenM[1]{\StrSubstitute{#1}{m}{\textara{m}}}
+\newcommand\dwarvenN[1]{\StrSubstitute{#1}{n}{\textara{d}}}
+\newcommand\dwarvenO[1]{\StrSubstitute{#1}{o}{\textarc{\ng}}}
+\newcommand\dwarvenTH[1]{\StrSubstitute{#1}{th}{\textarm{\th}}}
+\newcommand\dwarvenR[1]{\StrSubstitute{#1}{r}{\textarm{m}}}
+\newcommand\dwarvenS[1]{\StrSubstitute{#1}{s}{\textarm{s}}}
+\newcommand\dwarvenT[1]{\StrSubstitute{#1}{t}{\textarm{\ae}}}
+\newcommand\dwarvenU[1]{\StrSubstitute{#1}{u}{\textara{\ng}}}
+\newcommand\dwarvenUU[1]{\StrSubstitute{#1}{\=u}{\textara{\ng}}}
+\newcommand\dwarvenV[1]{\StrSubstitute{#1}{v}{\textarm{\r}}}
+\newcommand\dwarvenZ[1]{\StrSubstitute{#1}{z}{\textarm{x}}}
+\newcommand\dwarven[1]{%
+	\lowercase{%
+	\dwarvenFullStop{%
+	\dwarvenSpace{%
+	\dwarvenTH{%
+	\dwarvenAA{\dwarvenA{%
+	\dwarvenB{%
+	\dwarvenD{%
+	\dwarvenG{%
+	\dwarvenH{%
+	\dwarvenI{%
+	\dwarvenK{%
+	\dwarvenL{%
+	\dwarvenM{%
+	\dwarvenN{%
+	\dwarvenO{%
+	\dwarvenR{%
+	\dwarvenS{%
+	\dwarvenT{%
+	\dwarvenUU{\dwarvenU{%
+	\dwarvenV{%
+	\dwarvenZ{%
+		#1%
+	}}}}}}}}}}}}}}}}}}}}}}}
+}
+
+\newcommand{\dwarvenDef}[3]{%
+	\item[#1] \emph{#2}. #3
+%
+	%\dwarven{#1}
+}
+\newcommand{\dwarvenDefOld}[3]{%
+% 1 word
+% 2 word type
+% 3 definition
+	%\item[#1] \dwarven{#1}
+	\item[#1] \dwarven{#1}
+
+\emph{\color{gray}#2}. #3
+}
+
+\begin{document}
+
+\input{01-call-to-adventure}
+
+\appendix
+\chapter{Dwarven--Mannish dictionary}
+\section*{Alphabet}
+\begin{multicols}{8}
+\begin{description}
+\item[\dwarven{a}] \=a
+\item[\dwarven{b}] b
+\item[\dwarven{d}] d
+\item[\dwarven{g}] g
+\item[\dwarven{h}] h
+\item[\dwarven{i}] \=i
+\item[\dwarven{k}] k
+\item[\dwarven{l}] l
+\item[\dwarven{m}] m
+\item[\dwarven{n}] n
+\item[\dwarven{o}] o
+\item[\dwarven{th}] th
+\item[\dwarven{r}] r
+\item[\dwarven{s}] s
+\item[\dwarven{t}] t
+\item[\dwarven{u}] \=u
+\item[\dwarven{v}] v
+\item[\dwarven{z}] z
+\end{description}
+\end{multicols}
+
+\section*{Vocabulary}
+\begin{multicols}{2}
+\begin{description}
+\dwarvenDef{\=azthu}{adj}{true, pure}
+\dwarvenDef{b\=amk}{v}{be (in some state)}
+\dwarvenDef{brolz}{n}{hall, corridor}
+\dwarvenDef{d\=ult}{prep}{like}
+\dwarvenDef{gi}{prep}{in, within}
+\dwarvenDef{gorg}{conj}{and}
+\dwarvenDef{\=im}{n}{son}
+\dwarvenDef{\=iz}{v}{polish, refine}
+\dwarvenDef{kob}{n}{ore}
+%\dwarvenDef{Kob\=arthrond}{n}{Orehome, the Dwarven city and home of Protag}
+\dwarvenDef{kriths\=ulb}{adj}{natural, essential}
+\dwarvenDef{k\=ugz}{n}{wall, barrier}
+\dwarvenDef{m\=ar\=ag}{adj}{floating}
+%\dwarvenDef{M\=aragmir}{n}{The ancient floating city of the Dwarves, before it sank}
+\dwarvenDef{mir}{n}{city}
+\dwarvenDef{th\=aku}{adv}{yet}
+\dwarvenDef{trobu}{v}{shine}
+\dwarvenDef{rond}{n}{house, home}
+\dwarvenDef{v\=ald\=un}{adj}{fallen, sunken}
+%\dwarvenDef{V\=ald\=unmir}{n}{The ancient sunken city of the Dwarves, previously known as \emph{M\=aragmir}}
+\end{description}
+\end{multicols}
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
