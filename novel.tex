@@ -5,6 +5,13 @@
 \usepackage{allrunes}
 \usepackage{xstring}
 
+\usepackage[nf]{coelacanth}
+\usepackage[T1]{fontenc}
+%% The font package uses mweights.sty which has som issues with the
+%% \normalfont command. The following two lines fixes this issue.
+\let\oldnormalfont\normalfont
+\def\normalfont{\oldnormalfont\mdseries}
+
 \noexpandarg\exploregroups
 \newcommand\dwarvenSpace[1]{\StrSubstitute{#1}{ }{\textarm{.}}}
 \newcommand\dwarvenFullStop[1]{\StrSubstitute{#1}{.}{\textarm{\tripleeye}}}
@@ -69,13 +76,31 @@
 \emph{\color{gray}#2}. #3
 }
 
+
+\makeatletter
+\def\cleardoublepage{\clearpage\if@twoside \ifodd\c@page\else
+  \hbox{}\thispagestyle{empty}\newpage\if@twocolumn\hbox{}\newpage\fi\fi\fi}
+\makeatother
+
+\usepackage{floatpag}
+\floatpagestyle{empty}
+\rotfloatpagestyle{empty}
+
+\renewcommand{\chaptermark}[1]{\markboth{\slshape{#1}}{}}
+
+\usepackage[nouppercase]{scrpage2}
+\pagestyle{scrheadings}
+\chead{\headmark}
+\ihead[]{}
+
+
 \begin{document}
 \tableofcontents
 \input{01-call-to-adventure}
 
 \appendix
-\chapter*{Dwarven--Mannish dictionary}
-\addcontentsline{toc}{chapter}{Appendix: Dwarven--Mannish dictionary}
+\chapter*{Dwarven--Human dictionary}
+\addcontentsline{toc}{chapter}{Appendix: Dwarven--Human dictionary}
 
 \section*{Alphabet}
 \begin{multicols}{8}
@@ -110,19 +135,21 @@
 \dwarvenDef{d\=ult}{prep}{like}
 \dwarvenDef{gi}{prep}{in, within}
 \dwarvenDef{gorg}{conj}{and}
-\dwarvenDef{\=im}{n}{son}
+%\dwarvenDef{\=im}{n}{son}
 \dwarvenDef{\=iz}{v}{polish, refine}
 \dwarvenDef{kob}{n}{ore}
-%\dwarvenDef{Kob\=arthrond}{n}{Orehome, the Dwarven city and home of Protag}
+\dwarvenDef{Kob\=arthrond}{n}{``Orehome", the Dwarven city and home of Protag}
 \dwarvenDef{kriths\=ulb}{adj}{natural, essential}
 \dwarvenDef{k\=ugz}{n}{wall, barrier}
-\dwarvenDef{m\=ar\=ag}{adj}{floating}
+%\dwarvenDef{m\=ar\=ag}{adj}{floating}
 %\dwarvenDef{M\=aragmir}{n}{The ancient floating city of the Dwarves, before it sank}
-\dwarvenDef{mir}{n}{city}
+%\dwarvenDef{mir}{n}{city}
+\dwarvenDef{om\=un}{adj}{blue}
+\dwarvenDef{Omunkor}{n}{``Blue-ore", the decorative blue mineral naturally marbled throughout Kobarthrond}
 \dwarvenDef{th\=aku}{adv}{yet}
 \dwarvenDef{trobu}{v}{shine}
 \dwarvenDef{rond}{n}{house, home}
-\dwarvenDef{v\=ald\=un}{adj}{fallen, sunken}
+%\dwarvenDef{v\=ald\=un}{adj}{fallen, sunken}
 %\dwarvenDef{V\=ald\=unmir}{n}{The ancient sunken city of the Dwarves, previously known as \emph{M\=aragmir}}
 \end{description}
 \end{multicols}
