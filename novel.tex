@@ -62,7 +62,7 @@
 }
 
 \newcommand{\dwarvenDef}[3]{%
-	\item[#1] \emph{#2}. #3
+	\item[#1] \emph{\color{gray}#2.} #3
 %
 	%\dwarven{#1}
 }
@@ -76,6 +76,13 @@
 \emph{\color{gray}#2}. #3
 }
 
+\newcommand{\divider}{
+\vspace{1em}
+
+\hrule
+
+\vspace{1em}
+}
 
 \makeatletter
 \def\cleardoublepage{\clearpage\if@twoside \ifodd\c@page\else
