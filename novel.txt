@@ -1,8 +1,9 @@
 17 stages.  3k words per stage.
 
-Thars, protagonist
+Tarn, protagonist, son of Rolg
 Lawrence, human trader
-Smith, metalworker friend
+Orvi, , metalworker friend, son of Kog
+Athzad, son of Valkold, king of Orehome
 Peter, human cleric
 , elven librarian in Hamlet
 Circe, female swamp-elf wizard
@@ -40,13 +41,11 @@ Poems/songs
 
 
 Call to adventure
-    Protag is a Dwarven soldier, tasked with the defense and protection of his city Orehome, a fortress cut deep into a mountain.  It is a fairly large city, but by no means the biggest.  The Dwarves value craftsmanship above all else, and Orehome is no exception: it has its own certain materials mined from the mountain, plus those imported from elsewhere, all carved and inlaid and turned into beautiful things.
-    Protag's friend Lawrence is visiting the city, a trader from the nearest town of Men, Hamlet.  This provides an excuse to expound on the idiosyncrasies of Dwarven architecture/culture/physiology.  Lawrence is delivering a shipment of water.  Also a good chance to mention that the Dwarves in Orehome learn to speak the language of Men, since the nearby country is mostly occupied by Men and the nearest city is a Human city.
-    That day, the king announces a problem: people are getting sick from the water in the cave.  They do brew beer, which can be safely drunk, but that's obviously not a replacement.  One Dwarf is dispatched to find alternative water sources: wells, rivers, etc—a long shot.  A team is sent to the river below their mountain, to start fetching water and bringing it back in, but this is not ideal due to the labour involved (the river goes straight into a dense forest, Riverwood).  Trade for water will happen as needed, but is expensive.  (The announcement comes once the trade deal eventuates with Lawrence's delivery).
-    Protag believes that both of these will be fruitless.  He thinks that there must be a technological or medicinal solution somewhere in the wide world.  He gets this insight from years of discussion with Lawrence.
+    Also a good chance to mention that the Dwarves in Orehome learn to speak the language of Men, since the nearby country is mostly occupied by Men and the nearest city is a Human city.
+
     
 Refusal of the call
-    Protag understands the problem, but feels tied to his duties as a soldier.  This is partly just an excuse to avoid adventuring; like most Dwarves, Protag likes staying in the controlled environment of the subterranean city.  He talks to his close friend Smith, a metalworker in the city.  Smith's home is full of beautifully worked pieces, some functional but many merely decorative.  Protag describes the problem, and Smith empathises with the desire to stay home.  He is skeptical that there is a solution out there.  This makes it easy for Protag to convince himself that it's worth staying home.
+    This makes it easy for Protag to convince himself that it's worth staying home.
     In his day-to-day work, he is distracted by the problem.  It makes his guard duties seem bland and meaningless, compared with their existential crisis.
     Lawrence is due to leave the next day.  Protag decides to go with him, *only* to Hamlet's library, to see if there's any solution that's obvious, just not to Dwarves.  Then he'd come home.
     He packs his hammer, shield and helmet, plus a purse of gold and silver coins.  All of the coins were struck in Orehome but the metal for the gold ones came from elsewhere; their mountain had none.
