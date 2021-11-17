@@ -1,4 +1,51 @@
-\documentclass[12pt]{book}
+\documentclass[]{book}
+\usepackage[paperwidth=6in, paperheight=9in]{geometry}
+\usepackage[overload]{textcase}
+\addtolength{\oddsidemargin}{0.375in}
+\addtolength{\evensidemargin}{-0.375in}
+
+\newcommand{\blankpage}[1]{
+    \newpage
+    \thispagestyle{#1}
+    \mbox{}
+    %\newpage
+}
+
+\usepackage{floatpag}
+\floatpagestyle{empty}
+\rotfloatpagestyle{empty}
+
+\renewcommand{\chaptermark}[1]{\markboth{\slshape{#1}}{}}
+
+\usepackage[nouppercase]{scrpage2}
+\pagestyle{scrheadings}
+\chead{\headmark}
+\ihead[]{}
+
+\newcommand{\makeTitlePages}[6]{
+    \pagenumbering{gobble}
+    \blankpage{empty}
+    \blankpage{empty}
+    \newpage
+    \vspace*{\fill}
+    {\centering\Huge\bf\centering #1
+    \vspace*{\fill}
+
+    \title{#1}
+    \author{#3}
+    \maketitle}
+
+    \cleardoublepage
+    \pagenumbering{roman}
+    \setcounter{page}{7}
+}
+
+%% Patch for blank pages between chapters
+%% which disables the current page style
+\makeatletter
+\def\cleardoublepage{\clearpage\if@twoside \ifodd\c@page\else
+  \hbox{}\thispagestyle{empty}\newpage\if@twocolumn\hbox{}\newpage\fi\fi\fi}
+\makeatother
 
 \usepackage{multicol}
 \usepackage{xcolor}
@@ -22,6 +69,7 @@
 \newcommand\dwarvenG[1]{\StrSubstitute{#1}{g}{\textarc{\RR}}}
 \newcommand\dwarvenH[1]{\StrSubstitute{#1}{h}{\textara{h}}}
 \newcommand\dwarvenI[1]{\StrSubstitute{#1}{i}{\textara{\j}}}
+\newcommand\dwarvenII[1]{\StrSubstitute{#1}{\=\i}{\textara{\j}}}
 \newcommand\dwarvenK[1]{\StrSubstitute{#1}{k}{\textarc{g}}}
 \newcommand\dwarvenL[1]{\StrSubstitute{#1}{l}{\textarm{y}}}
 \newcommand\dwarvenM[1]{\StrSubstitute{#1}{m}{\textara{m}}}
@@ -46,7 +94,7 @@
 	\dwarvenD{%
 	\dwarvenG{%
 	\dwarvenH{%
-	\dwarvenI{%
+	\dwarvenII{\dwarvenI{%
 	\dwarvenK{%
 	\dwarvenL{%
 	\dwarvenM{%
@@ -59,7 +107,7 @@
 	\dwarvenV{%
 	\dwarvenZ{%
 		#1%
-	}}}}}}}}}}}}}}}}}}}}}}}}
+	}}}}}}}}}}}}}}}}}}}}}}}}}
 }
 
 \newcommand{\dwarvenDef}[3]{%
@@ -115,22 +163,28 @@
 \chead{\headmark}
 \ihead[]{}
 
+\usepackage{tocloft} % the tocloft package lets you redefine the Table of Contents (ToC)
+\renewcommand\cftchappresnum{Chapter } % prefix "Chapter " to chapter number in ToC
+\renewcommand\cftchapdotsep{\cftdotsep}
+\renewcommand\cftchapnumwidth{5em}
+
 
 \begin{document}
-\title{The Dwarf and the Sword of Purity}
-\author{Timothy Gurto}
-\maketitle
+\frontmatter
+%\makeTitlePages{The Dwarf and the Sword of Purity}{}{Timothy Gurto}{2021}{}{}
 
 \tableofcontents
+
+\mainmatter
 \input{01-call-to-adventure}
 \input{02-refusal-of-the-call}
 
+\backmatter
 \appendix
-\chapter*{Dwarven--Human dictionary}
-\addcontentsline{toc}{chapter}{Appendix: Dwarven--Human dictionary}
+\chapter{Dictionary of the Dwarven language}
 
 \section*{Alphabet}
-\begin{multicols}{5}
+\begin{multicols}{6}
 \begin{description}
 \item[\dwarven{a}] \=a
 \item[\dwarven{b}] b
@@ -158,6 +212,7 @@
 \begin{description}
 \dwarvenDef{\=azthu}{adj}{true, pure}
 \dwarvenDef{b\=amk}{v}{be (in some state)}
+\dwarvenDef{br\=\i}{prep}{of}
 \dwarvenDef{brolz}{n}{hall, corridor}
 \dwarvenDef{d\=ult}{prep}{like}
 \dwarvenDef{gi}{prep}{in, within}
@@ -165,7 +220,7 @@
 \dwarvenDef{\=\i{}m}{n}{son}
 \dwarvenDef{\=\i{}z}{v}{polish, refine}
 \dwarvenDef{kob}{n}{ore}
-\dwarvenDef{Kob\=arthrond}{n}{``Orehome", the Dwarven city and home of Protag}
+\dwarvenDef{Kob\=arthrond}{n}{``Orehome", the Dwarven city}
 \dwarvenDef{kriths\=ulb}{adj}{natural, essential}
 \dwarvenDef{k\=ugz}{n}{wall, barrier}
 %\dwarvenDef{m\=ar\=ag}{adj}{floating}
@@ -180,6 +235,12 @@
 %\dwarvenDef{V\=ald\=unmir}{n}{The ancient sunken city of the Dwarves, previously known as \emph{M\=aragmir}}
 \end{description}
 \end{multicols}
+
+%\blankpage{empty}
+%\blankpage{empty}
+%\blankpage{empty}
+%\blankpage{empty}
+%\blankpage{empty}
 \end{document}
 
 
