@@ -36,6 +36,7 @@
 \newcommand\dwarvenV[1]{\StrSubstitute{#1}{v}{\textarm{\r}}}
 \newcommand\dwarvenZ[1]{\StrSubstitute{#1}{z}{\textarm{x}}}
 \newcommand\dwarven[1]{%
+	\large{%
 	\lowercase{%
 	\dwarvenFullStop{%
 	\dwarvenSpace{%
@@ -58,7 +59,7 @@
 	\dwarvenV{%
 	\dwarvenZ{%
 		#1%
-	}}}}}}}}}}}}}}}}}}}}}}}
+	}}}}}}}}}}}}}}}}}}}}}}}}
 }
 
 \newcommand{\dwarvenDef}[3]{%
@@ -82,7 +83,7 @@
 	\noindent
 	\begin{center}
 	{
-		\large
+		%\large
 		\dwarven{#1}
 	}
 	\end{center}
@@ -116,6 +117,10 @@
 
 
 \begin{document}
+\title{The Dwarf and the Sword of Purity}
+\author{Timothy Gurto}
+\maketitle
+
 \tableofcontents
 \input{01-call-to-adventure}
 \input{02-refusal-of-the-call}
@@ -125,7 +130,7 @@
 \addcontentsline{toc}{chapter}{Appendix: Dwarven--Human dictionary}
 
 \section*{Alphabet}
-\begin{multicols}{8}
+\begin{multicols}{5}
 \begin{description}
 \item[\dwarven{a}] \=a
 \item[\dwarven{b}] b
