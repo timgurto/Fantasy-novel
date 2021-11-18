@@ -10,6 +10,7 @@
     \mbox{}
     %\newpage
 }
+\usepackage{graphicx}
 
 \usepackage{floatpag}
 \floatpagestyle{empty}
@@ -169,18 +170,34 @@
 \renewcommand\cftchapnumwidth{5em}
 
 
+\newcommand{\poem}[1]{%
+	\addcontentsline{lot}{table}{#1}
+}
+\renewcommand{\listtablename}{List of Songs and Poems}
+
+
 \begin{document}
 \frontmatter
 %\makeTitlePages{The Dwarf and the Sword of Purity}{}{Timothy Gurto}{2021}{}{}
 
+%\newpage
+%\includegraphics[trim=0 0 19cm 0, clip, width=\textwidth]{map}
+%\includegraphics[trim=19cm 0 0 0, clip, width=\textwidth]{map}
+
+\cleardoublepage
 \tableofcontents
+
+%\addcontentsline{toc}{chapter}{List of Songs and Poems}
+%\listoftables
 
 \mainmatter
 \input{01-call-to-adventure}
 \input{02-refusal-of-the-call}
+\input{03-supernatural-aid}
 
 \backmatter
-\appendix
+%\appendix
+
 \chapter{Dictionary of the Dwarven language}
 
 \section*{Alphabet}
