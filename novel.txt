@@ -5,7 +5,7 @@ Lawrence, human trader
 Orvi, , metalworker friend, son of Kog
 Athzad, son of Valkold, king of Orehome
 Peter, human cleric
-, elven librarian in Hamlet
+[Bookie], elven librarian in Hamlet
 Circe, female swamp-elf wizard
 Elrond, chief of wood-elf village
 , elemental
@@ -42,9 +42,6 @@ Poems/songs
 
     
 Supernatural Aid
-    Protag and Lawrence reach Hamlet after a few days.  Lawrence goes straight to the market, to sell his load of Dwarven goods.  He directs Protag to the library.
-    Hamlet is a medium-sized town of Men.  Protag had never left Orehome before, and marvels at the human buildings: free-standing, made of wood, stone, metal, whatever is most functional.  And they are tall, some two storeys high!  Lots of domesticated animals; a knight rides a horse down the street, and a hunter is followed by his dog.  There's also the occasional Dwarf walking around, a craftsman buying special materials or selling his wares (but usually they operate from Orehome, through human merchants).
-    Protag finds the library, and is greeted by an Elf.  He had never seeon one.  Tall, long ears, and pale, smooth skin.  Moved and spoke with purpose and elegance, but with a detached tone.  Spoke Human.
     Somehow, expound that elves are generally the lorekeepers of the world.
     The librarian knows of no technology to fix tainted water, but has heard about a magical sword that can defeat water-corrupting demons.  He recites the song.  He remembers that the sword is held by the dark elves inhabiting a coastal swamp.
     Protag decides to go to the swamp, and retrieve the sword.  He is told that the best way would be to travel to the nearest coastal city, then take a boat along the coast.  The librarian gives him some healing herbs in a cloth pouch, just in case (while living in a Human city, the librarian stays connected to his Elven roots by maintaining a herb garden, engaging in alchemy as a hobby, and weaving his own clothes and textiles).
