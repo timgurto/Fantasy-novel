@@ -1,39 +1,31 @@
-17 stages.  3k words per stage.
-
 Tarn, protagonist, son of Rolg
 Lawrence, human trader
-Orvi, , metalworker friend, son of Kog
+Orvi, metalworker friend, son of Kog
 Athzad, son of Valkold, king of Orehome
 Peter, human cleric
-[Bookie], elven librarian in Hamlet
-Circe, female swamp-elf wizard
-Elrond, chief of wood-elf village
+[Bookie], elven librarian in Silverdale
+[Circe], female swamp-elf wizard
+[Elrond], chief of wood-elf village
 , elemental
 
-Orehome (Kobarthrond), Protag's city
+Orehome (Korbarthrond), Protag's city
 Silverdale, human town
 Riverwood, forest between Orehome and Hamlet that obscures the river
-, razed swamp-elf village
-Treeville, wood-elf village
+[Swampville], razed swamp-elf village
+[Treeville], wood-elf village
 "The Exiles", self-given name of Dwarven raiders.
+Westport, the large human city in the region.
 
-Sword name
+Sword name: Kildir
 Filter name
 Shield name?
 Frost staff name?
 Name of human language?
-Adjective for human stuff (Elven, Dwarven, ? ... of Men? Mannish?)
+Adjective for human stuff (Elven, Dwarven, ? ... of Men? Mannish?  Human.)
+    
 
-Details to include:
-    Dwarves' greed
-    Elves are alien
-    
-When to capitalise Dwarf/Dwarven?  Elf/Elven?  Man/Human?
-    
-    
     
 Poems/songs
-1. About a magical sword that can defeat water-corrupting demons.  Actually about purifying water, but its poetic language is ambiguous.  Sung to Protag by the Hamlet librarian.
 2. A healing prayer, by Peter to heal Protag's stomach wound.
 3. About the faith, and the symbolism in the necklace.  By Peter to Protag.
 4. A song about dwarves, their descent from giants, the inherited love of caves and living underground, and carving out one's own environment.  Remembered by Protag while sleeping in a muddy hole.
@@ -42,9 +34,6 @@ Poems/songs
 
     
 Supernatural Aid
-    Somehow, expound that elves are generally the lorekeepers of the world.
-    The librarian knows of no technology to fix tainted water, but has heard about a magical sword that can defeat water-corrupting demons.  He recites the song.  He remembers that the sword is held by the dark elves inhabiting a coastal swamp.
-    Protag decides to go to the swamp, and retrieve the sword.  He is told that the best way would be to travel to the nearest coastal city, then take a boat along the coast.  The librarian gives him some healing herbs in a cloth pouch, just in case (while living in a Human city, the librarian stays connected to his Elven roots by maintaining a herb garden, engaging in alchemy as a hobby, and weaving his own clothes and textiles).
     Protag goes to the stable to hire a horse.  A cleric, Peter, overhears him, and asks to come with him to the city; travel is safer in a pair.  They travel together.  Peter gives him a small silver religious necklace to protect him for the journey.  Protag admires the craftsmanship but ignores the spiritual gobbledigook.
     
 The Crossing of the First Threshold
@@ -52,7 +41,7 @@ The Crossing of the First Threshold
     He manages to fight them off while Peter barely defends himself with his walking stick.  Protag kills one and chases the others away, but not before receiving a wound in his stomach.  Peter invokes the power of his god to heal the wound.  They take the dead goblin's dagger, plus some other artefact.
     
 Belly of the Whale
-    Protag and Peter return to their camp, to find the horses dead and their money stolen.  Tired, wet and injured, they stumble through the woods looking for shelter from the rain.  Finding none, they leaned against a small ridge so they could at least sit up out of the mud.  Protag dug a bit out first, then finally rested, his back embraced by the wet dirt.  Still raining on them.
+    Protag and Peter return to their camp, to find the horses dead and their money stolen.  And the herbs.  Tired, wet and injured, they stumble through the woods looking for shelter from the rain.  Finding none, they leaned against a small ridge so they could at least sit up out of the mud.  Protag dug a bit out first, then finally rested, his back embraced by the wet dirt.  Still raining on them.
     Peter explains a bit about his faith, and what the necklace represents.  Maybe sings a song.  He's afraid of death, and the goblins really scared him.  Happy to have a dagger now, but to him it represents mortal danger.
     Protag talks about his quest.
     Protag closes his eyes, and finds comfort in his back being against the ground, in a "shelter" which he himself created, however small, however unsheltered from the rain.  A primal comfort.  Carving it out gives him a feeling of agency, in the middle of this chaos.  Maybe remembers a song about dwarves, giants, caves, etc.  He drifts to sleep.
