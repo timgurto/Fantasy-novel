@@ -28,31 +28,19 @@ Adjective for human stuff (Elven, Dwarven, ? ... of Men? Mannish?  Human.)
 Poems/songs
 2. A healing prayer, by Peter to heal Protag's stomach wound.
 3. About the faith, and the symbolism in the necklace.  By Peter to Protag.
-4. A song about dwarves, their descent from giants, the inherited love of caves and living underground, and carving out one's own environment.  Remembered by Protag while sleeping in a muddy hole.
 5. A poem about the city, the metal, how the metal was proven by stabbing a stagnated elemental, and how it was turned into a filter to save Orehome. 
 
 
 
-They take the dead goblin's dagger.
-    
-Belly of the Whale
-    Protag and Peter return to their camp, to find the horses dead and their money stolen.  And the herbs.  Tired, wet and injured, they stumble through the woods looking for shelter from the rain.  Finding none, they leaned against a small ridge so they could at least sit up out of the mud.  Protag dug a bit out first, then finally rested, his back embraced by the wet dirt.  Still raining on them.
-    Peter explains a bit about his faith, and what the necklace represents.  Maybe sings a song.  He's afraid of death, and the goblins really scared him.  Happy to have a dagger now, but to him it represents mortal danger.
-    Protag talks about his quest.
-    Protag closes his eyes, and finds comfort in his back being against the ground, in a "shelter" which he himself created, however small, however unsheltered from the rain.  A primal comfort.  Carving it out gives him a feeling of agency, in the middle of this chaos.  Maybe remembers a song about dwarves, giants, caves, etc.  He drifts to sleep.
-    In the morning, they figure out what to do.  With no horses or money, they decide to press on directly towards the swamp, instead of going via the coast.  Peter wants to stick with Protag.
+
     
 The Road of Trials
     What personal issues does he need to overcome?
     Inspired by his necklace to fight on.
     
-    1. They follow a river downstream, hoping it will lead towards the swamp.  While walking, the water behaves strangely, swirling around, changing direction, swelling and subsiding, trickling up the bank and away from the river.  They approach with caution.
-    Protag slowly puts his hand in the water, and withdraws it quickly remarking that it's icy cold.  Peter is speechless.  The river quickly returns to normal, as if in response.
+
     
-    2. They find a dead dwarf.  Take the cowl, for Peter.  While examining the corpse, they are attacked by a swamp-elf wizard.  Protag blocks the spell with his shield just in time.
-    They talk it out.  The Elf's broken Human language makes it hard for her to communicate with Protag, but Peter can understand her and acts as translator.  The swamp elves had been raided by dwarves a few generations earlier, and the animosity never subsided.  The entire village had been razed, and the sword stolen.  Elves now taking shelter with the nearby forest elves.
-    
-    The wizard, Circe, takes them to the wood-elf village, under arrest due to caution (Protag is a dwarf, after all).  Protag has never seen anything like it--everything is built in and out of trees, mushrooms and vines!  The chief, Elrond, believes their story.  He identifies the cowl as dwarf-made and slightly magical, and explains how frost elementals control water.  He tells them that the dwarven raiders now occupy the hills to the south.
+  Protag has never seen anything like it--everything is built in and out of trees, mushrooms and vines!  The chief, Elrond, believes their story.  He identifies the cowl as dwarf-made and slightly magical, and explains how frost elementals control water.  He tells them that the dwarven raiders now occupy the hills to the south.
     Elrond tells them that the sword was originally from an ancient, now gone, Dwarven city.  Tells them the sword's name, which is inscribed on it.  That the elves don't know how to use it, and as far as they know the Dwarves don't either—that knowledge is probably lost.  The elves are uninterested in helping, even for revenge, as it isn't important.  However, the wizard wishes to join them on their quest to take on the dwarves.  She believes that the Dwarves are up to something sinister, and that it is her duty to set it right, to balance the world.  Not personal.
     
     3. They depart, to find the Dwarves' hangout.  They head for the hills.  They are accosted by a pair of lookouts, and fight and win the day.  Tank, healer, dps.  They reach the hills and approach the gate.
