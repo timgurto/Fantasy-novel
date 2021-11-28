@@ -4,8 +4,9 @@ Orvi, metalworker friend, son of Kog
 Athzad, son of Valkold, king of Orehome
 Peter, human cleric
 [Bookie], elven librarian in Silverdale
-[Circe], female swamp-elf wizard
+[Circe], female swamp-elf wizard.  Young and impulsive.
 [Elrond], chief of wood-elf village
+[Oldrond], Elrond's father
 , elemental
 
 Orehome (Korbarthrond), Protag's city
@@ -13,7 +14,8 @@ Silverdale, human town
 Riverwood, forest between Orehome and Hamlet that obscures the river
 [Swampville], razed swamp-elf village
 [Treeville], wood-elf village
-"The Exiles", self-given name of Dwarven raiders.
+[V\=ald\=unmir] the sunken city.  Should be given an elven name instead.
+[The Exiles], self-given name of Dwarven raiders.  Should have a Dwarven name.
 Westport, the large human city in the region.
 
 Sword name: Kildir
@@ -32,18 +34,18 @@ Poems/songs
 
 
 
+Allude to other regions of this continent, and to other continents.
 
     
 The Road of Trials
-    What personal issues does he need to overcome?
     Inspired by his necklace to fight on.
     
 
     
-  Protag has never seen anything like it--everything is built in and out of trees, mushrooms and vines!  The chief, Elrond, believes their story.  He identifies the cowl as dwarf-made and slightly magical, and explains how frost elementals control water.  He tells them that the dwarven raiders now occupy the hills to the south.
-    Elrond tells them that the sword was originally from an ancient, now gone, Dwarven city.  Tells them the sword's name, which is inscribed on it.  That the elves don't know how to use it, and as far as they know the Dwarves don't either—that knowledge is probably lost.  The elves are uninterested in helping, even for revenge, as it isn't important.  However, the wizard wishes to join them on their quest to take on the dwarves.  She believes that the Dwarves are up to something sinister, and that it is her duty to set it right, to balance the world.  Not personal.
+  He identifies the cowl as dwarf-made and slightly magical, and explains how frost elementals control water.  He tells them that the dwarven raiders now occupy the hills to the south.
+  The elves are uninterested in helping, even for revenge, as it isn't important.  However, the wizard wishes to join them on their quest to take on the dwarves.  She believes that the Dwarves are up to something sinister, and that it is her duty to set it right, to balance the world.  Not personal.
     
-    3. They depart, to find the Dwarves' hangout.  They head for the hills.  They are accosted by a pair of lookouts, and fight and win the day.  Tank, healer, dps.  They reach the hills and approach the gate.
+    3. They depart, to find the Dwarves' hangout.  Somehow establish that they are enemies; that violence is the correct approach to take.  They head for the hills.  They are accosted by a pair of lookouts, and fight and win the day.  Tank, healer, dps.  Circe reveals that she became a pyromancer driven by revenge for the fiery destruction of Swampville.  They reach the hills and approach the gate.  Tarn observes how hill-dwarf architecture differs from his mountain-dwarf culture.
     
 The Meeting with the Goddess
     Peter is scared for his life, remembering that fear of death from the goblins (even though the fight with the scouts was much more straightforward).  He gave Protag his word to see it through, and needs to ask for strength to do so.  He asks Protag to pray with him, and he reluctantly agrees.
@@ -53,12 +55,12 @@ The Meeting with the Goddess
 Woman as the Temptress
     They enter the fortress.  Following the angel's instructions, they find the treasure room.  It is full of artefacts, Dwarven-made.  Functional and decorative.  All very old.  One such piece catches Protag's eye: a sword made of a shiny green alloy.  It's the most beautiful object he's ever held in his hands.  He reads the inscription and finds that it is the sword he's looking for.  Whether or not it does what it is purported to do, in this moment Protag is completely satisfied and happy.  He could give up now, go home, and still feel like he has accomplished a lifetime's worth of challenges, simply due to possession of such a fine artefact.
     Protag has no idea how to use the sword.  He'd need to ask the head Dwarf who stole it, but that would be a very dangerous confrontation.  He could instead leave now, with his life and with this sword.  Maybe he could figure it out on his own.  Maybe one of the other solutions to the water problem will work.  He's just one soldier, after all; why should the fate of the entire city rest on his shoulders?  In short, tempted to go home with the sword as a treasure, without really satisfying the quest.
-    Ultimately, he sees his necklace in the sword's reflection, and decides to press on, sword in belt.
+    Ultimately, he sees his necklace in the sword's reflection, and decides to press on, sword in belt.  He considers the song from earlier, Song of the Giants, and that maybe it contains the message that Dwarves should try not to be greedy like the giants were.
     
 Atonement with the Father/Abyss
     They press on.  The tunnel becomes rough and natural, dank with wet patches on the ground.  The puddles grow larger, eventually streaming and trickling--uphill, back the way they came!.  They follow the flow of fetid water down, towards the source, around bends and through forks, until they find the water flowing from a large chamber.
     Here they find a frost elemental: Large, like living water pulsating and moving around.  Brown, algae growing, smelling putrid.  It screams at them in a gurgly sort of way.  Protag assumes this is one of the water-corrupting demons that the sword can smite, and builds up the courage to do so.  It's difficult to make this decision, as he is afraid he will lose the sword or it will break.  He plunges the sword into the thing.  And . . . from the point of the wound outwards, the water turns crystal clear, and crystalises into ice.  It's slow, like watching a black poison spread under the skin from a bite.  But it's obviously purifying the water.
-    The elemental stops thrashing and screaming.  It twists and pulsates, but due to natural movement of the water rather than struggling.  Then it speaks.
+    The elemental stops thrashing and screaming.  It twists and pulsates, but due to natural movement of the slow-moving frost rather than struggling.  Then it speaks.
     "I am a warden of the frosts and waters of the world.  The Dwarf captured me, to restore his sunken city from thousands of years ago in exchange for my freedom.  But I won't do it; I can't do it.  Being trapped in this cave has made me stagnate, but you have purified me.  Thank you.  I am still a prisoner here; my essence/soul is being held in a bottle, in the possession of the head Dwarf.  Get it, bring it to me, and I will be free."
     Protag removes the sword.
     
