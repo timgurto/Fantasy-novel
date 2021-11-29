@@ -14,8 +14,8 @@ Silverdale, human town
 Riverwood, forest between Orehome and Hamlet that obscures the river
 [Swampville], razed swamp-elf village
 [Treeville], wood-elf village
-[V\=ald\=unmir] the sunken city.  Should be given an elven name instead.
-[The Exiles], self-given name of Dwarven raiders.  Should have a Dwarven name.
+[V\=ald\=unmir] the sunken city.  Should be given an elven name instead.  This dwarven name can be used by the Smathzolis.
+Smathzolis, self-given name of Dwarven raiders.  Should have a Dwarven name.
 Westport, the large human city in the region.
 
 Sword name: Kildir
@@ -25,7 +25,6 @@ Frost staff name?
 Name of human language?
 Adjective for human stuff (Elven, Dwarven, ? ... of Men? Mannish?  Human.)
 elven or elvish?
-    
 
     
 Poems/songs
@@ -39,9 +38,6 @@ Allude to other regions of this continent, and to other continents.
 
     
 The Road of Trials
-    Inspired by his necklace to fight on.
-    
-
     
     3. They depart, to find the Dwarves' hangout.  Somehow establish that they are enemies; that violence is the correct approach to take.  They head for the hills.  They are accosted by a pair of lookouts, and fight and win the day.  Tank, healer, dps.  Circe reveals that she became a pyromancer driven by revenge for the fiery destruction of Swampville.  They reach the hills and approach the gate.  Tarn observes how hill-dwarf architecture differs from his mountain-dwarf culture.
     
