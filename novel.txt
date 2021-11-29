@@ -24,6 +24,7 @@ Shield name?
 Frost staff name?
 Name of human language?
 Adjective for human stuff (Elven, Dwarven, ? ... of Men? Mannish?  Human.)
+elven or elvish?
     
 
     
@@ -41,9 +42,6 @@ The Road of Trials
     Inspired by his necklace to fight on.
     
 
-    
-  He identifies the cowl as dwarf-made and slightly magical, and explains how frost elementals control water.  He tells them that the dwarven raiders now occupy the hills to the south.
-  The elves are uninterested in helping, even for revenge, as it isn't important.  However, the wizard wishes to join them on their quest to take on the dwarves.  She believes that the Dwarves are up to something sinister, and that it is her duty to set it right, to balance the world.  Not personal.
     
     3. They depart, to find the Dwarves' hangout.  Somehow establish that they are enemies; that violence is the correct approach to take.  They head for the hills.  They are accosted by a pair of lookouts, and fight and win the day.  Tank, healer, dps.  Circe reveals that she became a pyromancer driven by revenge for the fiery destruction of Swampville.  They reach the hills and approach the gate.  Tarn observes how hill-dwarf architecture differs from his mountain-dwarf culture.
     
