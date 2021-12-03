@@ -8,6 +8,7 @@ Peter, human cleric
 [Elrond], chief of wood-elf village
 [Oldrond], Elrond's father
 , elemental
+[Redbeard], leader of Exiles
 
 Orehome (Korbarthrond), Protag's city
 Silverdale, human town
@@ -30,19 +31,17 @@ elven or elvish?
 Poems/songs
 2. A healing prayer, by Peter to heal Protag's stomach wound.
 3. About the faith, and the symbolism in the necklace.  By Peter to Protag.
+4a. Funeral song for Circe?
 5. A poem about the city, the metal, how the metal was proven by stabbing a stagnated elemental, and how it was turned into a filter to save Orehome. 
 
 
 
 Allude to other regions of this continent, and to other continents.
 
-    
-The Road of Trials
-    
-    3. They depart, to find the Dwarves' hangout.  Somehow establish that they are enemies; that violence is the correct approach to take.  They head for the hills.  They are accosted by a pair of lookouts, and fight and win the day.  Tank, healer, dps.  Circe reveals that she became a pyromancer driven by revenge for the fiery destruction of Swampville.  They reach the hills and approach the gate.  Tarn observes how hill-dwarf architecture differs from his mountain-dwarf culture.
+   
     
 The Meeting with the Goddess
-    Peter is scared for his life, remembering that fear of death from the goblins (even though the fight with the scouts was much more straightforward).  He gave Protag his word to see it through, and needs to ask for strength to do so.  He asks Protag to pray with him, and he reluctantly agrees.
+
     While praying, an angel appears to Protag (though he doesn't know what it is, and nor will the reader be told).  A being of light, pure, beautiful, transcendent.  A soothing female voice.  A warm feeling of embrace.  She talks about Protag fulfilling his destiny, being moral, being brave, doing what he thinks is right.  It's obvious Protag doesn't know how to pray, but the intention is enough to demonstrate he's on the right path.  She tells him how to find the treasure room in the fortress.  She tells him that the wizard is right: the Dwarves are up to no good.
     "I believe I have just communed with your god"
     
