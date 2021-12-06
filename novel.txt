@@ -10,16 +10,16 @@ Peter, human cleric
 , elemental
 Mothzam Driktur, leader of Exiles
 
-Orehome (Korbarthrond), Protag's city
+Orehome (\korbarthrond), Protag's city
 Silverdale, human town
 Riverwood, forest between Orehome and Hamlet that obscures the river
 [Swampville], razed swamp-elf village
 [Treeville], wood-elf village
-[V\=ald\=unmir] the sunken city.  Should be given an elven name instead.  This dwarven name can be used by the Smathzolis.
-Smathzolis, self-given name of Dwarven raiders.  Should have a Dwarven name.
+[V\=ald\=unmir] the sunken city.  Should be given an elven name instead.  This dwarven name can be used by the Tholkis.
+Tholkis, self-given name of Dwarven raiders.  Should have a Dwarven name.
 Westport, the large human city in the region.
 
-Sword name: Kildir
+Sword name: \kildir
 Filter name
 Shield name?
 Frost staff name?
@@ -38,15 +38,10 @@ Poems/songs
 
 Allude to other regions of this continent, and to other continents.
 
-   
-    
-The Meeting with the Goddess
 
-    While praying, an angel appears to Protag (though he doesn't know what it is, and nor will the reader be told).  A being of light, pure, beautiful, transcendent.  A soothing female voice.  A warm feeling of embrace.  She talks about Protag fulfilling his destiny, being moral, being brave, doing what he thinks is right.  It's obvious Protag doesn't know how to pray, but the intention is enough to demonstrate he's on the right path.  She tells him how to find the treasure room in the fortress.  She tells him that the wizard is right: the Dwarves are up to no good.
-    "I believe I have just communed with your god"
     
 Woman as the Temptress
-    They enter the fortress.  Following the angel's instructions, they find the treasure room.  It is full of artefacts, Dwarven-made.  Functional and decorative.  All very old.  One such piece catches Protag's eye: a sword made of a shiny green alloy.  It's the most beautiful object he's ever held in his hands.  He reads the inscription and finds that it is the sword he's looking for.  Whether or not it does what it is purported to do, in this moment Protag is completely satisfied and happy.  He could give up now, go home, and still feel like he has accomplished a lifetime's worth of challenges, simply due to possession of such a fine artefact.
+    Whether or not it does what it is purported to do, in this moment Protag is completely satisfied and happy.  He could give up now, go home, and still feel like he has accomplished a lifetime's worth of challenges, simply due to possession of such a fine artefact.
     Protag has no idea how to use the sword.  He'd need to ask the head Dwarf who stole it, but that would be a very dangerous confrontation.  He could instead leave now, with his life and with this sword.  Maybe he could figure it out on his own.  Maybe one of the other solutions to the water problem will work.  He's just one soldier, after all; why should the fate of the entire city rest on his shoulders?  In short, tempted to go home with the sword as a treasure, without really satisfying the quest.
     Ultimately, he sees his necklace in the sword's reflection, and decides to press on, sword in belt.  He considers the song from earlier, Song of the Giants, and that maybe it contains the message that Dwarves should try not to be greedy like the giants were.
     
