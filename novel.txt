@@ -8,7 +8,7 @@ Peter, human cleric
 [Elrond], chief of wood-elf village
 [Oldrond], Elrond's father
 , elemental
-Mothzam Driktur, leader of Exiles
+Mothzam Drik'tur, leader of Exiles
 
 Orehome (\korbarthrond), Protag's city
 Silverdale, human town
@@ -41,8 +41,7 @@ Allude to other regions of this continent, and to other continents.
 
     
 Woman as the Temptress
-    Whether or not it does what it is purported to do, in this moment Protag is completely satisfied and happy.  He could give up now, go home, and still feel like he has accomplished a lifetime's worth of challenges, simply due to possession of such a fine artefact.
-    Protag has no idea how to use the sword.  He'd need to ask the head Dwarf who stole it, but that would be a very dangerous confrontation.  He could instead leave now, with his life and with this sword.  Maybe he could figure it out on his own.  Maybe one of the other solutions to the water problem will work.  He's just one soldier, after all; why should the fate of the entire city rest on his shoulders?  In short, tempted to go home with the sword as a treasure, without really satisfying the quest.
+  In short, tempted to go home with the sword as a treasure, without really satisfying the quest.
     Ultimately, he sees his necklace in the sword's reflection, and decides to press on, sword in belt.  He considers the song from earlier, Song of the Giants, and that maybe it contains the message that Dwarves should try not to be greedy like the giants were.
     
 Atonement with the Father/Abyss
