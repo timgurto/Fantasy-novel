@@ -15,7 +15,7 @@ Silverdale, human town
 Riverwood, forest between Orehome and Hamlet that obscures the river
 [Swampville], razed swamp-elf village
 [Treeville], wood-elf village
-[V\=ald\=unmir] the sunken city.  Should be given an elven name instead.  This dwarven name can be used by the Tholkis.
+[V\=ald\=unmir] the sunken city.  Elven name: [Sinkopolis]  Should be given an elven name instead.  This dwarven name can be used by the Tholkis.
 Tholkis, self-given name of Dwarven raiders.  Should have a Dwarven name.
 [Ellie], the elemental
 Westport, the large human city in the region.
@@ -39,12 +39,7 @@ Poems/songs
 
 Allude to other regions of this continent, and to other continents.
 
-    
-    "I am a warden of the frosts and waters of the world.  The Dwarf captured me, to restore his sunken city from thousands of years ago in exchange for my freedom.  But I won't do it; I can't do it.  Being trapped in this cave has made me stagnate, but you have purified me.  Thank you.  I am still a prisoner here; my essence/soul is being held in a bottle, in the possession of the head Dwarf.  Get it, bring it to me, and I will be free."
-    Protag removes the sword and tucks it into his belt.
-    
-Apotheosis
-    The team goes in search of the head Dwarf.  A group of guards ambush them.  Protag hastily grabs what weapon he can; the sword comes out from his belt into his hand.  He parries, and the sword clatters loudly and a large chip flies out.  Obviously this sword was not made for combat.  He grabs his hammer and continues the fight, alongside Peter and the wizard.  They finally slay the last guard, then stop to catch their breath.  Protag laments that the beautiful sword has been damaged, and looks around for the missing chunk.  He finds it in a puddle, purer than the other stagnant puddles around.  He then realises that it's not the sword that purifies water, but the constituent metal.
+He then realises that it's not the sword that purifies water, but the constituent metal.
     Then he realises the true meaning behind the librarian's song; somehow it was about the metal all along.  He picks up the chunk.  So there is a solution to Orehome's problem.
     
 The Ultimate Boon

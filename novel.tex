@@ -172,7 +172,7 @@
 
 \usepackage{tocloft} % the tocloft package lets you redefine the Table of Contents (ToC)
 \renewcommand\cftchappresnum{Chapter } % prefix "Chapter " to chapter number in ToC
-\renewcommand\cftchapdotsep{\cftdotsep}
+%\renewcommand\cftchapdotsep{\cftdotsep} % TODO: UNCOMMENT THIS
 \renewcommand\cftchapnumwidth{5em}
 
 
@@ -187,6 +187,7 @@
 \newcommand{\tholkunrond}{Thol\-k\=un\-rond}
 \newcommand{\mothzam}{Moth\-z\=am}
 \newcommand{\driktur}{Drik'\-t\=ur}
+\newcommand{\valdunmir}{V\=al\-d\=un\-mir}
 
 
 \begin{document}
@@ -198,7 +199,7 @@
 %\includegraphics[trim=19cm 0 0 0, clip, width=\textwidth]{map}
 
 \cleardoublepage
-%\tableofcontents % commented out because the dots dirty the word count
+\tableofcontents
 
 %\addcontentsline{toc}{chapter}{List of Songs and Poems}
 %\listoftables
@@ -214,11 +215,12 @@
 \input{07-meeting-with-the-goddess}
 \input{08-woman-as-the-temptress}
 \input{09-atonement-with-the-father}
+\input{10-apotheosis}
 
-\backmatter
+%\backmatter
 %\appendix
 
-\input{dictionary}
+%\input{dictionary}
 
 %\blankpage{empty}
 %\blankpage{empty}
