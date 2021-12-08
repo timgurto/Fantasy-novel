@@ -16,8 +16,7 @@ Riverwood, forest between Orehome and Hamlet that obscures the river
 [Swampville], razed swamp-elf village
 [Treeville], wood-elf village
 [V\=ald\=unmir] the sunken city.  Elven name: [Sinkopolis]  Should be given an elven name instead.  This dwarven name can be used by the Tholkis.
-Tholkis, self-given name of Dwarven raiders.  Should have a Dwarven name.
-[Ellie], the elemental
+Tholkis, self-given name of Dwarven raiders.  
 Westport, the large human city in the region.
 
 Sword name: \kildir
@@ -39,8 +38,6 @@ Poems/songs
 
 Allude to other regions of this continent, and to other continents.
 
-He then realises that it's not the sword that purifies water, but the constituent metal.
-    Then he realises the true meaning behind the librarian's song; somehow it was about the metal all along.  He picks up the chunk.  So there is a solution to Orehome's problem.
     
 The Ultimate Boon
     The team finds the head dwarf, a wizard himself.  He is furious, says that he was close to getting his ancestors' city back, that the elemental was about to break.
