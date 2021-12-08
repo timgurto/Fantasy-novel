@@ -17,6 +17,7 @@ Riverwood, forest between Orehome and Hamlet that obscures the river
 [Treeville], wood-elf village
 [V\=ald\=unmir] the sunken city.  Should be given an elven name instead.  This dwarven name can be used by the Tholkis.
 Tholkis, self-given name of Dwarven raiders.  Should have a Dwarven name.
+[Ellie], the elemental
 Westport, the large human city in the region.
 
 Sword name: \kildir
@@ -39,10 +40,6 @@ Poems/songs
 Allude to other regions of this continent, and to other continents.
 
     
-Atonement with the Father/Abyss
-    They press on.  The tunnel becomes rough and natural, dank with wet patches on the ground.  The puddles grow larger, eventually streaming and trickling--uphill, back the way they came!.  They follow the flow of fetid water down, towards the source, around bends and through forks, until they find the water flowing from a large chamber.
-    Here they find a frost elemental: Large, like living water pulsating and moving around.  Brown, algae growing, smelling putrid.  It screams at them in a gurgly sort of way.  Protag assumes this is one of the water-corrupting demons that the sword can smite, and builds up the courage to do so.  It's difficult to make this decision, as he is afraid he will lose the sword or it will break.  He plunges the sword into the thing.  And . . . from the point of the wound outwards, the water turns crystal clear, and crystalises into ice.  It's slow, like watching a black poison spread under the skin from a bite.  But it's obviously purifying the water.
-    The elemental stops thrashing and screaming.  It twists and pulsates, but due to natural movement of the slow-moving frost rather than struggling.  Then it speaks.
     "I am a warden of the frosts and waters of the world.  The Dwarf captured me, to restore his sunken city from thousands of years ago in exchange for my freedom.  But I won't do it; I can't do it.  Being trapped in this cave has made me stagnate, but you have purified me.  Thank you.  I am still a prisoner here; my essence/soul is being held in a bottle, in the possession of the head Dwarf.  Get it, bring it to me, and I will be free."
     Protag removes the sword and tucks it into his belt.
     
