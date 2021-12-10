@@ -43,36 +43,13 @@ Poems/songs
 5. A poem about the city, the metal, how the metal was proven by stabbing a stagnated elemental, and how it was turned into a filter to save Orehome. 
 
 
-
-Allude to other regions of this continent, and to other continents.
-
-    
-The Magic Flight
-    At the village, they give the wizard's belongings to Elrond.  He identifies the staff and shield.
-    The staff was made by the Dwarf, especially to channel the frost power of the Elemental.  It still carries some of that residual power, which Peter can learn to wield.
-    The shield belonged to the Prince of Atlantis.  Ceremonial.  A special iron alloy that doesn't rust.
-    Elrond gives Protag some seeds to give to the librarian for his garden, and a letter describing the adventure.
-    The Elemental offers to carry Protag and Peter all the way back to the human town, via the rivers.  Peter politely refuses, saying he wants to spend some time with the elves before heading to his original destination, the human city.  Protag accept's the Elemental's offer.  During the journey he observes a number of settlements of Men, Goblin camps, but nothing as advanced or beautiful as he imagines the sunken city was.  He wonders if the city is lost for good; wonders if there was ever really a chance of restoring it.  Once they arrive, the Elemental thanks Protag once again for freeing him, and quickly departs.
-    
-Rescue from Without
-
-The Crossing of the Return Threshold
-    Protag gives the Hamlet librarian the letter and the seeds.  Shows him the sword and the shield.
-    He hires a horse at the city gates, and gallops off towards the mountain.  He reaches it at sunset, drops off the horse at the Orehome branch of the stable company, and enters the gates.
-    
-Master of the Two Worlds
-    He visits his friend Smith.  Tells him the story, and about the city, and shows him the sword.
-    Gives the following spec:
-     - maximise surface area
-     - do justice to the craftsmanship of the original sword.
-    Pays in gold coins.  Smith accepts only half payment, because of the benefit to the city.
-    A few days later, Smith gives him two lovingly and expertly carved wooden boxes, both engraved with the same city picture as is on Protag's shield.
-    The first is large and flat, 3'x3'x1'.  It contains a filter for the city's well.  Long tubes in a honeycomb pattern, making up a wide cylinder.  Designed to fit the well, such that all drinking water is forced to pass through it and come into contact with the special metal.  Its surface is engraved with the date, the names of its maker (Smith) and its commissioner (Protag), its purpose, and its name ().  "Forged from the sword blah blah, from Atlantis, etc.".  All this on the smooth cylindrical outer surface designed to fit snugly into the city's primary well.  The top surface is uneven: the hexagonal tubes are shaped like towers, such that the top surface appears like a model city, on a flat island.  Thus, when the filter is placed in the well, under the water, it will resemble the sunken city.
-    The second box, Smith opens then holds out to Protag.  It is a small jewelry box, that can be held comfortably in Protag's hand.  Inside is a coin, made of the same green metal.  A small coin, because as much metal as possible needed to go into the filter, but this is something that Protag can keep, as a reminder of his adventures, and of the properties of the metal.  One side of the coin bears a picture of the Elemental.  The other side, again, lists the names of Smith and Protag.
-    Inscribed inside the lids of both boxes is a poem, describing the story of the city, the metal, how it was proven by the elemental being stabbed, and how it was turned into a filter to save Orehome.
-    The coin and poem were a surprise.
     Protag delivers the filter to the city plumbers' guild.
     
 Freedom to Live
     Protag wakes up for a regular day of work.  He glances at the shield hanging on his wall: too beautiful to use, not part of his allowed uniform, and probably not as strong has his issued shield given that it was ceremonial.  But a reminder of his adventure.  Below it is a small shelf with the hilt of the sword, and the box with the coin, open.
     He puts on his uniform and heads to the mess hall.  With his breakfast he has a mug of beer, and then a mug of water, admiring its clean taste.  Atlantis may be gone, but its technology lives on in Orehome, keeping it afloat.  Beginning his day of work guarding the city, he can protect it and keep it alive, satisfying that part of him that wanted to restore Atlantis.
+
+
+" -> `` or ''
+only
+will/shall
