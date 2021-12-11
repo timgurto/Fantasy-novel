@@ -6,24 +6,46 @@ The sword from the seas
 
 
 
+arstur
+oram
+lalvel
+sanas
+orodvar
+ashem
+thayn
+aden
+yalothor
+nolar
+rith
+aneles
+tith
+iban
+lavur
+lish
+hanon
+onur
+lisi
+alo
+
+
+
+
 Tarn, protagonist, son of Rolg
 Lawrence, human trader
 Orvi, metalworker friend, son of Kog
 Athzad, son of Valkold, king of Orehome
 Peter, human cleric
-[Bookie], elven librarian in Silverdale
-[Circe], female swamp-elf wizard.  Young and impulsive.
-[Elrond], chief of wood-elf village
-[Oldrond], Elrond's father
-, elemental
+Ithur, elven librarian in Silverdale
+Bes, female swamp-elf wizard.  Young and impulsive.
+Arilor, chief of wood-elf village
 Mothzam Drik'tur, leader of Exiles
 
 Orehome (\korbarthrond), Protag's city
 Silverdale, human town
 Riverwood, forest between Orehome and Hamlet that obscures the river
-[Swampville], razed swamp-elf village
-[Treeville], wood-elf village
-[V\=ald\=unmir] the sunken city.  Elven name: [Sinkopolis]  Should be given an elven name instead.  This dwarven name can be used by the Tholkis.
+[\yedmurdim], razed swamp-elf village
+Inarthonor, wood-elf village
+[V\=ald\=unmir] the sunken city.  Elven name: [\atmudarant]  Should be given an elven name instead.  This dwarven name can be used by the Tholkis.
 Tholkis, self-given name of Dwarven raiders.  
 Westport, the large human city in the region.
 
@@ -39,7 +61,7 @@ elven or elvish?
 Poems/songs
 2. A healing prayer, by Peter to heal Protag's stomach wound.
 3. About the faith, and the symbolism in the necklace.  By Peter to Protag.
-4a. Funeral song for Circe?
+4a. Funeral song for Bes?
 5. A poem about the city, the metal, how the metal was proven by stabbing a stagnated elemental, and how it was turned into a filter to save Orehome. 
 
 

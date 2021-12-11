@@ -36,11 +36,13 @@
 
     \title{#1}
     \author{#3}
+\date{}
     \maketitle}
 
-    \cleardoublepage
+    %\cleardoublepage
+    \newpage
     \pagenumbering{roman}
-    \setcounter{page}{7}
+    \setcounter{page}{6}
 }
 
 %% Patch for blank pages between chapters
@@ -119,6 +121,7 @@
 %
 	%\dwarven{#1}
 }
+\newcommand{\elvishDef}[3]{\dwarvenDef{#1}{#2}{#3}}
 \newcommand{\dwarvenDefOld}[3]{%
 % 1 word
 % 2 word type
@@ -172,7 +175,7 @@
 
 \usepackage{tocloft} % the tocloft package lets you redefine the Table of Contents (ToC)
 \renewcommand\cftchappresnum{Chapter } % prefix "Chapter " to chapter number in ToC
-%\renewcommand\cftchapdotsep{\cftdotsep} % TODO: UNCOMMENT THIS
+\renewcommand\cftchapdotsep{\cftdotsep} % TODO: UNCOMMENT THIS
 \renewcommand\cftchapnumwidth{5em}
 
 
@@ -189,14 +192,19 @@
 \newcommand{\driktur}{Drik'\-t\=ur}
 \newcommand{\valdunmir}{V\=al\-d\=un\-mir}
 
+\newcommand{\arilor}{\=Ari\-lor}
+\newcommand{\inarthonor}{\=In\-\=ar\-tho\-nor}
+\newcommand{\atmudarant}{\=At\-m\=u\-da\-r\=ant}
+\newcommand{\yedmurdim}{Yedm\=urdim}
+
 
 \begin{document}
 \frontmatter
-%\makeTitlePages{The Dwarf and the Sword of Purity}{}{Timothy Gurto}{2021}{}{}
+\makeTitlePages{Adventures in Dwarfland\\(working title)}{}{Timothy Gurto}{2021}{}{}
 
-%\newpage
-%\includegraphics[trim=0 0 19cm 0, clip, width=\textwidth]{map}
-%\includegraphics[trim=19cm 0 0 0, clip, width=\textwidth]{map}
+%\cleardoublepage
+\includegraphics[trim=0 0 19cm 0, clip, width=\textwidth]{map}
+\includegraphics[trim=19cm 0 0 0, clip, width=\textwidth]{map}
 
 \cleardoublepage
 \tableofcontents
@@ -244,8 +252,8 @@
 
 \input{dictionary}
 
-%\blankpage{empty}
-%\blankpage{empty}
+\blankpage{empty}
+\blankpage{empty}
 %\blankpage{empty}
 %\blankpage{empty}
 %\blankpage{empty}
