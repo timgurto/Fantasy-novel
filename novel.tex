@@ -1,5 +1,5 @@
-\documentclass[]{book}
-\usepackage[paperwidth=6in, paperheight=9in]{geometry}
+\documentclass[11pt]{book}
+\usepackage[a5paper]{geometry}
 \usepackage[overload]{textcase}
 \addtolength{\oddsidemargin}{0.375in}
 \addtolength{\evensidemargin}{-0.375in}
@@ -55,6 +55,7 @@
 \usepackage{multicol}
 \usepackage{xcolor}
 \usepackage{allrunes}
+\usepackage{mxedruli}
 \usepackage{xstring}
 
 \usepackage[nf]{coelacanth}
@@ -113,6 +114,60 @@
 	\dwarvenZ{%
 		#1%
 	}}}}}}}}}}}}}}}}}}}}}}}}}
+	\normalsize
+}
+
+\noexpandarg\exploregroups
+\newcommand\elvishSpace[1]{\StrSubstitute{#1}{ }{\textarm{.}}}
+\newcommand\elvishFullStop[1]{\StrSubstitute{#1}{.}{\textarm{\tripleeye}}}
+\newcommand\elvishA[1]{\StrSubstitute{#1}{a}{\mxedr a}}
+\newcommand\elvishAA[1]{\StrSubstitute{#1}{\=a}{\mxedr a}}
+\newcommand\elvishB[1]{\StrSubstitute{#1}{b}{\textarm{b}}}
+\newcommand\elvishD[1]{\StrSubstitute{#1}{d}{\textarm{\o}}}
+\newcommand\elvishE[1]{\StrSubstitute{#1}{e}{\textarm{\o}}}
+\newcommand\elvishF[1]{\StrSubstitute{#1}{f}{\textarm{\o}}}
+\newcommand\elvishH[1]{\StrSubstitute{#1}{h}{\textara{h}}}
+\newcommand\elvishI[1]{\StrSubstitute{#1}{i}{\textara{\j}}}
+\newcommand\elvishII[1]{\StrSubstitute{#1}{\=\i}{\textara{\j}}}
+\newcommand\elvishL[1]{\StrSubstitute{#1}{l}{\textarm{y}}}
+\newcommand\elvishM[1]{\StrSubstitute{#1}{m}{\textara{m}}}
+\newcommand\elvishN[1]{\StrSubstitute{#1}{n}{\textara{d}}}
+\newcommand\elvishO[1]{\StrSubstitute{#1}{o}{\textarc{\ng}}}
+\newcommand\elvishTH[1]{\StrSubstitute{#1}{th}{\textara{j}}}
+\newcommand\elvishR[1]{\StrSubstitute{#1}{r}{\textarm{m}}}
+\newcommand\elvishS[1]{\StrSubstitute{#1}{s}{\textarm{s}}}
+\newcommand\elvishSH[1]{\StrSubstitute{#1}{sh}{\textarm{s}}}
+\newcommand\elvishT[1]{\StrSubstitute{#1}{t}{\textarm{\ae}}}
+\newcommand\elvishU[1]{\StrSubstitute{#1}{u}{\textara{\ng}}}
+\newcommand\elvishUU[1]{\StrSubstitute{#1}{\=u}{\textara{\ng}}}
+\newcommand\elvishV[1]{\StrSubstitute{#1}{v}{\textarm{\r}}}
+\newcommand\elvishY[1]{\StrSubstitute{#1}{y}{\textarm{x}}}
+\newcommand\elvish[1]{%
+	\large{%
+	\lowercase{%
+	\elvishFullStop{%
+	\elvishSpace{%
+	\elvishTH{%
+	\elvishSH{%
+	\elvishAA{\elvishA{%
+	\elvishB{%
+	\elvishD{%
+	\elvishE{%
+	\elvishF{%
+	\elvishH{%
+	\elvishII{\elvishI{%
+	\elvishL{%
+	\elvishM{%
+	\elvishN{%
+	\elvishO{%
+	\elvishR{%
+	\elvishS{%
+	\elvishT{%
+	\elvishUU{\dwarvenU{%
+	\elvishV{%
+	\elvishY{%
+		#1%
+	}}}}}}}}}}}}}}}}}}}}}}}}}}
 	\normalsize
 }
 
@@ -203,8 +258,8 @@
 \makeTitlePages{Adventures in Dwarfland\\(working title)}{}{Timothy Gurto}{2021}{}{}
 
 %\cleardoublepage
-\includegraphics[trim=0 0 19cm 0, clip, width=\textwidth]{map}
-\includegraphics[trim=19cm 0 0 0, clip, width=\textwidth]{map}
+\includegraphics[trim=0 0 18cm 0, clip, width=\textwidth]{map}
+\includegraphics[trim=18cm 0 0 0, clip, width=\textwidth]{map}
 
 \cleardoublepage
 \tableofcontents
