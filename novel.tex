@@ -52,10 +52,11 @@
   \hbox{}\thispagestyle{empty}\newpage\if@twocolumn\hbox{}\newpage\fi\fi\fi}
 \makeatother
 
+\usepackage[english]{mls}
 \usepackage{multicol}
 \usepackage{xcolor}
 \usepackage{allrunes}
-\usepackage{mxedruli}
+%\usepackage{mxedruli}
 \usepackage{xstring}
 
 \usepackage[nf]{coelacanth}
@@ -120,7 +121,7 @@
 \noexpandarg\exploregroups
 \newcommand\elvishSpace[1]{\StrSubstitute{#1}{ }{\textarm{.}}}
 \newcommand\elvishFullStop[1]{\StrSubstitute{#1}{.}{\textarm{\tripleeye}}}
-\newcommand\elvishA[1]{\StrSubstitute{#1}{a}{\mxedr a}}
+\newcommand\elvishA[1]{\StrSubstitute{#1}{a}{\bicig{m}}}
 \newcommand\elvishAA[1]{\StrSubstitute{#1}{\=a}{\mxedr a}}
 \newcommand\elvishB[1]{\StrSubstitute{#1}{b}{\textarm{b}}}
 \newcommand\elvishD[1]{\StrSubstitute{#1}{d}{\textarm{\o}}}
@@ -171,20 +172,28 @@
 	\normalsize
 }
 
-\newcommand{\dwarvenDef}[3]{%
+\newcommand{\dwarvenDefB}[3]{%
 	\item[#1] \emph{\color{gray}#2.} #3
 %
 	%\dwarven{#1}
 }
 \newcommand{\elvishDef}[3]{\dwarvenDef{#1}{#2}{#3}}
-\newcommand{\dwarvenDefOld}[3]{%
+\newcommand{\dwarvenDefA}[3]{%
 % 1 word
 % 2 word type
 % 3 definition
 	%\item[#1] \dwarven{#1}
-	\item[#1] \dwarven{#1}
-
-\emph{\color{gray}#2}. #3
+	\item[#1] \dwarven{#1}\hspace{0.5em}
+\emph{\color{gray}#2.}#3
+}
+\newcommand{\dwarvenDef}[3]{%
+% 1 word
+% 2 word type
+% 3 definition
+	%\item[#1] \dwarven{#1}
+	\item[#1] \dwarven{#1}\hspace{0.3em}
+\emph{\color{gray}#2.}\\
+#3\vspace{0.1em}
 }
 
 \newcommand{\dwarvenInscription}[1]{
@@ -244,7 +253,7 @@
 \newcommand{\korbarthrond}{Kor\-bar\-thrond}
 \newcommand{\tholkunrond}{Thol\-k\=un\-rond}
 \newcommand{\mothzam}{Moth\-z\=am}
-\newcommand{\driktur}{Drik'\-t\=ur}
+\newcommand{\driktur}{Dr\=\i{}k'\-t\=ur}
 \newcommand{\valdunmir}{V\=al\-d\=un\-mir}
 
 \newcommand{\arilor}{\=Ari\-lor}

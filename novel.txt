@@ -10,6 +10,10 @@ The Legacy of Valdunmir
 Inspector Tarn and the case of the Poisoned Water Supply
 Adventures in Dwarfland
 
+The Water of Korbarthrond
+Legacy of the Dwarves
+
+
 
 
 
@@ -18,7 +22,7 @@ Lawrence, human trader
 Orvi, metalworker friend, son of Kog
 Athzad, son of Valkold, king of Orehome
 Peter, human cleric
-Ithur, elven librarian in Silverdale
+Ith\=ur, elven librarian in Silverdale
 Bes, female swamp-elf wizard.  Young and impulsive.
 Arilor, chief of wood-elf village
 Mothzam Drik'tur, leader of Exiles
