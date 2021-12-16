@@ -259,7 +259,7 @@
 \newcommand{\arilor}{\=Ari\-lor}
 \newcommand{\inarthonor}{\=In\-\=ar\-tho\-nor}
 \newcommand{\atmudarant}{\=At\-m\=u\-da\-r\=ant}
-\newcommand{\yedmurdim}{Yedm\=urdim}
+\newcommand{\yedmurdim}{Yed\-m\=ur\-dim}
 
 
 \begin{document}
@@ -270,11 +270,21 @@ minus 1.1 \fontdimen4\font
 \makeTitlePages{Legacy of the Drowned City}{}{Timothy Gurto}{2021}{}{}
 
 %\cleardoublepage
-\includegraphics[trim=0 0 18cm 0, clip, width=\textwidth]{map}
-\includegraphics[trim=18cm 0 0 0, clip, width=\textwidth]{map}
+\pagenumbering{gobble}
+\includegraphics[trim=0 0 18.5cm 0, clip, width=0.9\textwidth]{map}
 
-\cleardoublepage
+\includegraphics[trim=18.5cm 0 0 0, clip, width=0.9\textwidth]{map}
+
+
+%\newpage
+\mbox{}% Need something on this page
+%\clearpage
+%\cleardoublepage
+%\newpage
+\newpage
 \tableofcontents
+\pagenumbering{roman}
+\setcounter{page}{9}
 
 %\addcontentsline{toc}{chapter}{List of Songs and Poems}
 %\listoftables
