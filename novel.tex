@@ -27,8 +27,6 @@
 
 \newcommand{\makeTitlePages}[6]{
     \pagenumbering{gobble}
-    \blankpage{empty}
-    \blankpage{empty}
     \newpage
     \vspace*{\fill}
     {\centering\Huge\bf\centering #1
@@ -275,16 +273,17 @@ minus 1.1 \fontdimen4\font
 
 \includegraphics[trim=18.5cm 0 0 0, clip, width=0.9\textwidth]{map}
 
+\blankpage{empty}
 
 %\newpage
-\mbox{}% Need something on this page
+%\mbox{}% Need something on this page
 %\clearpage
 %\cleardoublepage
 %\newpage
 \newpage
 \tableofcontents
 \pagenumbering{roman}
-\setcounter{page}{9}
+\setcounter{page}{7}
 
 %\addcontentsline{toc}{chapter}{List of Songs and Poems}
 %\listoftables
@@ -329,8 +328,8 @@ minus 1.1 \fontdimen4\font
 
 \input{dictionary}
 
-\blankpage{empty}
-\blankpage{empty}
+%\blankpage{empty}
+%\blankpage{empty}
 %\blankpage{empty}
 %\blankpage{empty}
 %\blankpage{empty}
